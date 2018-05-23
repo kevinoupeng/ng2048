@@ -1,4 +1,4 @@
-## 2048 on Angular
+## 用 Angular 编写的 2048 游戏
 
 This repo holds the source code for the **detailed** blog post on how to build it on [ng-newsletter.com](http://www.ng-newsletter.com). 
 
